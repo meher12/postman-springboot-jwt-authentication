@@ -1,7 +1,7 @@
 
-#Spring Boot Security Login example with JWT and H2 example
+# Spring Boot Security Login example with JWT and H2 example
 
-##Appropriate Flow for User Login and Registration with JWT and HttpOnly Cookie
+## Appropriate Flow for User Login and Registration with JWT and HttpOnly Cookie
 
 ## Spring Boot Rest Api Architecture with Spring Security
 
